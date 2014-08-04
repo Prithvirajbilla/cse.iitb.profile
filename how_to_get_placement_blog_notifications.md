@@ -31,8 +31,8 @@ Some carriers don't support sms service and some don't support sending sms durin
 Get all the notifications and Stay Awesome IITB.
 
 
-!(http://imgur.com/qiKenTD)
-!(http://imgur.com/4qAEXsM)
+<a href="http://imgur.com/4qAEXsM"><img src="http://i.imgur.com/4qAEXsM.png" title="Hosted by imgur.com"/></a>
 
+<a href="http://imgur.com/qiKenTD"><img src="http://i.imgur.com/qiKenTD.png" title="Hosted by imgur.com"/></a>
 
 
